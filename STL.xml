@@ -10,7 +10,7 @@
   <cards>
 
     <card>
-      <name>Abyssal Render</name>
+      <name>Abyss Render</name>
       <set rarity="rare">STL</set>
       <prop>
         <colors>B</colors>
@@ -39,7 +39,7 @@ At the beginning of each end step, if this creature attacked or blocked this tur
       <text>Whenever one or more counters are put on a creature you control, if they weren’t put on that creature by this enchantment, you may put one of those counters on another target creature.</text>
     </card>
     <card>
-      <name>Kralkstone</name>
+      <name>Pale Glimmer</name>
       <set rarity="common">STL</set>
       <prop>
         <colors></colors>
@@ -53,23 +53,22 @@ At the beginning of each end step, if this creature attacked or blocked this tur
 {T}, Pay 1 life: Add one mana of the chosen color.</text>
     </card>
     <card>
-      <name>Etherbloat Revenant</name>
+      <name>Soulcore Revenant</name>
       <set rarity="uncommon">STL</set>
       <prop>
         <colors>U</colors>
-        <manacost>3UU</manacost>
-        <cmc>5</cmc>
-        <type>Creature - Zombie Drake </type>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Wizard </type>
         <maintype>Creature</maintype>
         <pt>4/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying
-When this creature enters, sacrifice it unless {B} was spent to cast it.
+      <text>When this creature enters, sacrifice it unless {B} was spent to cast it.
 When this creature dies, return target nonland permanent to its owner’s hand.</text>
     </card>
     <card>
-      <name>Agonizing Helplessness</name>
+      <name>Deepwinter&apos;s Call</name>
       <set rarity="rare">STL</set>
       <prop>
         <colors>B</colors>
@@ -79,7 +78,7 @@ When this creature dies, return target nonland permanent to its owner’s hand.<
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature an opponent controls enters, that player sacrifices a creature unless they pay 3 life.</text>
+      <text>Whenever a creature an opponent controls enters, that player sacrifices a creature of their choice unless they pay 3 life.</text>
     </card>
     <card>
       <name>Looming Dreadvessel</name>
@@ -92,7 +91,9 @@ When this creature dies, return target nonland permanent to its owner’s hand.<
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature you control dies, up to one target creature gets -1/-1 until end of turn.
+      <text>Whenever a creature you control dies, choose one—
+• Target player loses 1 life.
+• Up to one target creature gets -1/-1 until end of turn.
 Crew 5
 You may pay {B} and sacrifice a creature rather than pay this artifact’s crew cost.</text>
     </card>
@@ -151,7 +152,7 @@ Target creature gets +3/+3 until end of turn. If this spell’s additional cost 
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, deathtouch
-If a creature dealt damage this turn by this creature would die, exile it instead.
+If a creature dealt damage by this creature this turn would die, exile it instead.
 WWBB, Discard this card: Exile target nonland permanent.</text>
     </card>
     <card>
@@ -267,7 +268,7 @@ Whenever a nontoken creature dies, create a 1/1 white Bird enchantment creature 
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature you control enters, you may sacrifice it. When you do, this artifact deals damage equal to that creature’s power to any target.</text>
+      <text>Whenever a creature you control enters, you may sacrifice it. When you do, that creature deals damage equal to its power to any target.</text>
     </card>
     <card>
       <name>Assault Drake</name>
@@ -282,7 +283,7 @@ Whenever a nontoken creature dies, create a 1/1 white Bird enchantment creature 
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever this creature deals combat damage during your turn, it deals 1 damage to each creature your opponents control.
+Whenever this creature deals combat damage during your turn, it deals 1 damage to each creature defending player controls.
 Dash 4RR</text>
     </card>
     <card>
@@ -303,8 +304,8 @@ Dash 4RR</text>
       <name>Awoken</name>
       <set rarity="common">STL</set>
       <prop>
-        <colors>U</colors>
-        <manacost>UU</manacost>
+        <colors></colors>
+        <manacost>2</manacost>
         <cmc>2</cmc>
         <type>Artifact Creature - Golem </type>
         <maintype>Creature</maintype>
@@ -347,19 +348,21 @@ At the beginning of each upkeep, if this creature dealt damage last turn, remove
 When this creature enters, create two 1/1 white Human Soldier creature tokens.</text>
     </card>
     <card>
-      <name>Bedlam Cavalier</name>
+      <name>Bells of Bedlam</name>
       <set rarity="mythic">STL</set>
       <prop>
         <colors>BR</colors>
         <manacost>3BBR</manacost>
         <cmc>6</cmc>
-        <type>Creature - Demon Centaur Knight </type>
+        <type>Creature - Demon Bird Mount </type>
         <maintype>Creature</maintype>
         <pt>5/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Menace
-Whenever this creature attacks, defending player sacrifices half of all creatures they control, rounded down. Then that player sacrifices a nontoken creature.</text>
+      <text>Flying, menace, haste
+Whenever this creature attacks while saddled, defending player sacrifices half of all creatures they control of their choice, rounded down. Then that player sacrifices a nontoken creature of their choice.
+Pay 10 life: This creature becomes saddled. Activate only as a sorcery.
+Saddle 4</text>
     </card>
     <card>
       <name>Bestial Rampage</name>
@@ -391,7 +394,7 @@ At the beginning of your upkeep, you gain life equal to the exiled creature’s 
     </card>
     <card>
       <name>Blasphemous Creation</name>
-      <set rarity="rare">STL</set>
+      <set rarity="mythic">STL</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -406,18 +409,18 @@ Whenever you lose life during your turn, put that many +1/+1 counters on this cr
     </card>
     <card>
       <name>Molten Effigy</name>
-      <set rarity="common">STL</set>
+      <set rarity="uncommon">STL</set>
       <prop>
-        <colors></colors>
-        <manacost>4</manacost>
+        <colors>R</colors>
+        <manacost>3R</manacost>
         <cmc>4</cmc>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying
-1R, Sacrifice this creature: It deals 1 damage to each creature and each player. Activate only as a sorcery.</text>
+      <text>Flying, defender
+When this creature dies, it deals 2 damage to each creature.</text>
     </card>
     <card>
       <name>Blazing Seraph</name>
@@ -435,7 +438,7 @@ Whenever you lose life during your turn, put that many +1/+1 counters on this cr
 Whenever this creature deals combat damage to a player, until your next turn, creatures that player controls can’t attack you unless that player pays {1} for each of those creatures.</text>
     </card>
     <card>
-      <name>Blessed Discovery</name>
+      <name>Portentious Discovery</name>
       <set rarity="uncommon">STL</set>
       <prop>
         <colors>WG</colors>
@@ -476,7 +479,7 @@ At the beginning of your end step, put a -1/-1 counter on enchanted creature.
 When enchanted creature dies, create an X/X black Wurm Horror creature token, where X is the number of -1/-1 counters on enchanted creature.</text>
     </card>
     <card>
-      <name>Bloodmoon Howler</name>
+      <name>Bloodmoon Vanguard</name>
       <set rarity="uncommon">STL</set>
       <prop>
         <colors>RG</colors>
@@ -528,7 +531,7 @@ When enchanted creature dies, create an X/X black Wurm Horror creature token, wh
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Lands are artifacts.</text>
+      <text>Lands are artifact enchantments.</text>
     </card>
     <card>
       <name>Bluemoon Tracker</name>
@@ -551,7 +554,7 @@ When enchanted creature dies, create an X/X black Wurm Horror creature token, wh
         <colors>R</colors>
         <manacost>R</manacost>
         <cmc>1</cmc>
-        <type>Creature - Human Warrior </type>
+        <type>Creature - Human Shaman </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
@@ -660,7 +663,7 @@ When this creature enters, you may discard an instant or sorcery card. When you 
       <text>Reach
 Whenever another Spider dies, you gain 1 life.
 At the beginning of each player’s end step, that player creates a 1/2 green Spider creature token with reach.
-2B: Each opponent sacrifices a Spider. Activate only as a sorcery.</text>
+2B: Target opponent sacrifices a Spider of their choice. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Awakening Bell</name>
@@ -677,7 +680,7 @@ At the beginning of each player’s end step, that player creates a 1/2 green Sp
 4BB, {T}, Sacrifice this artifact: Put target creature card from a graveyard onto the battlefield under your control.</text>
     </card>
     <card>
-      <name>Arbor Ursus</name>
+      <name>Rustling Ursus</name>
       <set rarity="common">STL</set>
       <prop>
         <colors>G</colors>
@@ -706,18 +709,18 @@ Remove three +1/+1 counters from this creature: You gain 1 life for each land yo
 Whenever you draw a card, target opponent loses 1 life.</text>
     </card>
     <card>
-      <name>Surging Strength</name>
+      <name>Surging Force</name>
       <set rarity="common">STL</set>
       <prop>
         <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-Enchanted creature gets +0/+3 and has “Whenever this creature attacks, double its power until end of turn.”</text>
+Enchanted creature has trample and “Whenever this creature attacks, double its power until end of turn.”</text>
     </card>
     <card>
       <name>Muster Courage</name>
@@ -730,7 +733,7 @@ Enchanted creature gets +0/+3 and has “Whenever this creature attacks, double 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Creatures you control with power 1 or less gain first strike until end of turn.
+      <text>Creatures you control with power or toughness 1 or less gain first strike until end of turn.
 Draw a card.</text>
     </card>
     <card>
@@ -810,7 +813,7 @@ When this creature dies, it deals 1 damage to target opponent for each +1/+1 cou
       <text>Whenever this creature attacks, you may sacrifice it. When you do, destroy target artifact. If that artifact was attached to a creature, this creature deals 4 damage to that creature.</text>
     </card>
     <card>
-      <name>Terraspike Pick</name>
+      <name>Groundspike Pick</name>
       <set rarity="common">STL</set>
       <prop>
         <colors></colors>
@@ -825,7 +828,7 @@ Whenever equipped creature attacks, you may put a land card from your hand onto 
 Equip {1}</text>
     </card>
     <card>
-      <name>Arachnoid Abomination</name>
+      <name>Warped Spinner</name>
       <set rarity="common">STL</set>
       <prop>
         <colors>R</colors>
@@ -867,7 +870,7 @@ Entwine 2B</text>
         <pt>4/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of your upkeep, sacrifice another permanent with the highest mana value among permanents you control. When you do, draw a number of cards equal to that permanent’s mana value. If a land was sacrificed this way, target opponent sacrifices a permanent.</text>
+      <text>At the beginning of your upkeep, sacrifice another permanent with the highest mana value among permanents you control. When you do, draw a number of cards equal to that permanent’s mana value. If a land was sacrificed this way, target opponent sacrifices a permanent of their choice.</text>
     </card>
     <card>
       <name>Caravan Hornshell</name>
@@ -900,7 +903,7 @@ Enchanted land is a 5/5 red and green Dragon creature with flying and “Wheneve
 Whenever a land you control enters, put a +1/+1 counter on enchanted land.</text>
     </card>
     <card>
-      <name>Catacomb Ghastlord</name>
+      <name>Follora Canal Ghastlord</name>
       <set rarity="mythic">STL</set>
       <prop>
         <colors>UB</colors>
@@ -916,7 +919,7 @@ Whenever one or more creatures you control deal damage to a player, put a soul c
 Creatures you control get +1/+0 for each soul counter on this creature.</text>
     </card>
     <card>
-      <name>Invoke Vigor</name>
+      <name>Invoke Hope</name>
       <set rarity="rare">STL</set>
       <prop>
         <colors>WUG</colors>
@@ -931,7 +934,7 @@ Choose one or more —
 • Put two +1/+1 counters on target creature.
 • Tap up to three target creatures.
 • Destroy target artifact or enchantment.
-If this spell’s escalate cost was payed twice, you may play target card from your graveyard this turn without paying its mana cost.</text>
+If this spell’s escalate cost was paid twice, you may play target card from your graveyard this turn without paying its mana cost.</text>
     </card>
     <card>
       <name>Cinderseed</name>
@@ -977,7 +980,7 @@ When this creature dies, you may sacrifice a land. When you do, exile this creat
 2W, Exile this card from your graveyard: Exile target creature you control, then return it to the battlefield under its owner’s control at the beginning of the next end step. Activate only as a sorcery.</text>
     </card>
     <card>
-      <name>Collective Summons</name>
+      <name>Conjoined Summons</name>
       <set rarity="common">STL</set>
       <prop>
         <colors>WB</colors>
@@ -991,7 +994,7 @@ When this creature dies, you may sacrifice a land. When you do, exile this creat
 Create an X/X white and black Demon creature token with flying, where X is the number of creatures that convoked this spell.</text>
     </card>
     <card>
-      <name>Colossi&apos;s Calling</name>
+      <name>Colossus Calling</name>
       <set rarity="rare">STL</set>
       <prop>
         <colors>WU</colors>
@@ -1200,15 +1203,15 @@ When this creature enters, create a 2/2 white Griffin creature token with flying
       <text>When this creature enters, create two 1/1 green Bird Horror creature tokens.</text>
     </card>
     <card>
-      <name>Crimson Sporecrown</name>
+      <name>Sporecrown</name>
       <set rarity="common">STL</set>
       <prop>
         <colors>UG</colors>
-        <manacost>GU</manacost>
-        <cmc>2</cmc>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
         <type>Creature - Plant </type>
         <maintype>Creature</maintype>
-        <pt>0/5</pt>
+        <pt>0/7</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender, reach
@@ -1229,7 +1232,7 @@ Whenever this creature blocks a creature, put a stun counter on that creature.</
 Enchanted creature gets -2/-1 and has “At the beginning of your upkeep, this creature deals 1 damage to you.”</text>
     </card>
     <card>
-      <name>Crookbark Druid</name>
+      <name>Druid of the Crooked</name>
       <set rarity="common">STL</set>
       <prop>
         <colors>G</colors>
@@ -1243,7 +1246,7 @@ Enchanted creature gets -2/-1 and has “At the beginning of your upkeep, this c
       <text>When this creature enters, look at the top card of your library. If it’s a land card, you may reveal it and put it into your hand. Otherwise, you may put a land card from your graveyard on top of your library.</text>
     </card>
     <card>
-      <name>Crookbark Elder</name>
+      <name>Crooked Elder</name>
       <set rarity="uncommon">STL</set>
       <prop>
         <colors>BG</colors>
@@ -1331,7 +1334,7 @@ Whenever this creature becomes blocked, prevent all damage that would be dealt b
       <text>When this creature dies, you may pay {B}. When you do, create a 1/1 black Worm creature token with deathtouch.</text>
     </card>
     <card>
-      <name>Daybreak Charger</name>
+      <name>Daybreak Vanguard</name>
       <set rarity="uncommon">STL</set>
       <prop>
         <colors>WR</colors>
@@ -1496,19 +1499,19 @@ Whenever this creature attacks, create a 2/2 white Human Knight creature token t
 Whenever a token created by this creature dies, return this creature to its owner’s hand.</text>
     </card>
     <card>
-      <name>Desperate Defender</name>
+      <name>Guardian Image</name>
       <set rarity="common">STL</set>
       <prop>
         <colors>WG</colors>
         <manacost>2G/W</manacost>
         <cmc>3</cmc>
-        <type>Creature - Human Soldier </type>
+        <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
-        <pt>1/3</pt>
+        <pt>1/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Defender
+Flying, defender
 Whenever this creature blocks, you may sacrifice it. When you do, prevent all damage that would be dealt to you this turn.</text>
     </card>
     <card>
@@ -1683,13 +1686,13 @@ As long as there are two or more bide counters on this enchantment, enchanted cr
       <text>Whenever this creature deals combat damage to a player, that player discards a card, mills a card, and loses 1 life.</text>
     </card>
     <card>
-      <name>Dun Legion Charger</name>
+      <name>Implanted Mummy</name>
       <set rarity="rare">STL</set>
       <prop>
         <colors>BR</colors>
         <manacost>2BBR</manacost>
         <cmc>5</cmc>
-        <type>Creature - Centaur Soldier </type>
+        <type>Creature - Zombie </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
@@ -1728,7 +1731,7 @@ Whenever this creature deals combat damage to a player, that player reveals a ca
 Whenever this creature attacks, it can’t be blocked this turn unless defending player discards a card.</text>
     </card>
     <card>
-      <name>Dusken Warlord</name>
+      <name>Lord of the Fourteenth</name>
       <set rarity="rare">STL</set>
       <prop>
         <colors>WBR</colors>
@@ -2007,7 +2010,7 @@ Flashback 2G</text>
         <colors>WURG</colors>
         <manacost>RGWU</manacost>
         <cmc>4</cmc>
-        <type>Enchantment Artifact Creature - Avatar </type>
+        <type>Enchantment Artifact Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>1/7</pt>
       </prop>
@@ -2110,15 +2113,15 @@ At the beginning of each player’s upkeep, that player gains control of all per
       <text>Search your library for two land cards with different names and reveal them. An opponent chooses one of those cards. Put the chosen card into your graveyard and the rest into your hand. Then shuffle.</text>
     </card>
     <card>
-      <name>Extension of the Wilds</name>
+      <name>Living Regrowth</name>
       <set rarity="mythic">STL</set>
       <prop>
         <colors>URG</colors>
         <manacost>3GUR</manacost>
         <cmc>6</cmc>
-        <type>Creature - Avatar </type>
+        <type>Creature - Elemental  </type>
         <maintype>Creature</maintype>
-        <pt>4/7</pt>
+        <pt>3/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, return all land cards from all graveyards to the battlefield tapped under your control.
@@ -2155,7 +2158,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
     </card>
     <card>
       <name>Pyrewielder</name>
-      <set rarity="mythic">STL</set>
+      <set rarity="rare">STL</set>
       <prop>
         <colors>R</colors>
         <manacost>4RR</manacost>
@@ -2266,7 +2269,7 @@ Whenever one or more creatures attack you, if Arjen Sniper is untapped, you may 
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Spells you control and abilities of permanents you control have wither.
+      <text>Spells and abilities you control have wither.
 BR, {T}: This creature deals 1 damage to any target. Activate only as a sorcery.</text>
     </card>
     <card>
@@ -2365,7 +2368,7 @@ At the beginning of your upkeep, if you control four or more creatures, draw a c
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Flowing Blaze deals X damage to each creature target player controls. That player may sacrifice X lands. If they don’t, this spell deals X damage to that player.</text>
+      <text>Flowing Blaze deals X damage to each creature target player controls. That player may sacrifices X lands. If they do, this spell deals half X damage instead.</text>
     </card>
     <card>
       <name>Flux Golem</name>
@@ -2897,7 +2900,7 @@ When this creature dies, you may pay XX. When you do, create X 1/1 white Spirit 
         <cmc>4</cmc>
         <type>Creature - Elemental Horror </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>4/6</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Nonbasic landwalk
@@ -2976,7 +2979,7 @@ Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 co
 Whenever this creature deals combat damage to a player, that player creates a red Wound enchantment token with “At the beginning of your upkeep, this token deals 1 damage to you.”</text>
     </card>
     <card>
-      <name>Fortress of Scarred Peak</name>
+      <name>Fortress of Scars</name>
       <set rarity="mythic">STL</set>
       <prop>
         <colors>R</colors>
@@ -2990,7 +2993,7 @@ Whenever this creature deals combat damage to a player, that player creates a re
       <text>Whenever a creature you control is dealt damage, put a defense counter on this structure.
 [0]: This structure deals 1 damage to any target.
 [0]: Create a 1/1 red Human Warrior creature token with “This token can’t block.”
-[-5]: Creatures you control get +X/+0 until end of turn, where X is the number of defense counters on this structure.</text>
+[-4]: Creatures you control get +X/+0 until end of turn, where X is the number of defense counters on this structure.</text>
     </card>
     <card>
       <name>Wandering Isle</name>
@@ -3083,7 +3086,7 @@ Whenever this creature attacks or blocks, put 7 awaken counters on it at the beg
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, create two 1/1 red Devil creature tokens.
-Whenever another creature you control dies, this creature deals 2 damage to each player.</text>
+Whenever another devil you control dies, this creature deals 3 damage to each player.</text>
     </card>
     <card>
       <name>Lingerer</name>
@@ -3533,7 +3536,7 @@ You may choose not to untap this creature during your untap step.
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a creature or discard a card.
-Target opponent sacrifices a creature and discards a card.</text>
+Target opponent sacrifices a creature of their choice and discards a card.</text>
     </card>
     <card>
       <name>Ocean Alive</name>
@@ -3893,7 +3896,7 @@ Whenever another nonswamp land you control enters, you may sacrifice it. When yo
         <colors>R</colors>
         <manacost>6RRR</manacost>
         <cmc>9</cmc>
-        <type>Creature - Avatar </type>
+        <type>Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>12/9</pt>
       </prop>
@@ -3929,7 +3932,7 @@ Whenever another nontoken creature dies, create a 2/2 black Horror creature toke
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, each player sacrifices a creature.
+      <text>When this creature enters, each player sacrifices a creature of their choice.
 {3}: Exile target creature card from a graveyard. You gain 1 life.</text>
     </card>
     <card>
@@ -3972,7 +3975,7 @@ This creature attacks each combat if able.</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Spectacle—1RR, Sacrifice a permanent.
+      <text>Spectacle—1RR
 Razing Flame deals 4 damage to target creature and 2 damage to each other creature.</text>
     </card>
     <card>
@@ -4099,7 +4102,7 @@ Unearth 2WB</text>
       <tablerow>2</tablerow>
       <text>Kicker—2B, Sacrifice a creature.
 Flying
-When this creature enters, if it was kicked, put a +1/+1 counter on it and target opponent sacrifices a creature.</text>
+When this creature enters, if it was kicked, put a +1/+1 counter on it and target opponent sacrifices a creature of their choice.</text>
     </card>
     <card>
       <name>Rings of Omid</name>
@@ -4201,7 +4204,7 @@ Flanking</text>
 Whenever the third creature you control enters each turn, add {G}.</text>
     </card>
     <card>
-      <name>Rootcrag Asylum</name>
+      <name>Detidemi Asylum</name>
       <set rarity="uncommon">STL</set>
       <prop>
         <colors>UB</colors>
@@ -4213,8 +4216,7 @@ Whenever the third creature you control enters each turn, add {G}.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>[-1]: Target player mills X cards, where X is the greatest number of creature cards among graveyards.
-[-3]: Draw a card if there are ten or more creature cards in all graveyards.
-There is no consensus on its true location, only the fact that the number of patients is steadily increasing.</text>
+[-3]: Draw a card if there are ten or more creature cards in all graveyards.</text>
     </card>
     <card>
       <name>Sandplate Wurm</name>
@@ -4502,7 +4504,7 @@ Whenever this creature becomes tapped, put a stun counter on it.</text>
       <tablerow>1</tablerow>
       <text>As an additional cost to cast this spell, pay X life.
 This enchantment enters with X blood counters on it.
-At the beginning of your upkeep, remove a blood counter from this enchantment. When you do, this enchantment deals 2 damage to target opponent.</text>
+At the beginning of your upkeep, this enchantment deals damage to target opponent equal to half the number of blood counters on it, rounded up. Then remove a blood counter from this enchantment.</text>
     </card>
     <card>
       <name>Soultear</name>
@@ -4557,7 +4559,7 @@ At the beginning of enchanted player’s upkeep, that player draws cards equal t
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this artifact enters, choose a color or permanent type. Whenever a permanent an opponent controls of the chosen color or type enters, destroy it unless that player pays 1 life, discards a card, and sacrifices a permanent.</text>
+      <text>When this artifact enters, choose a color or permanent type. Whenever a permanent an opponent controls of the chosen color or type enters, destroy it unless that player pays 1 life, discards a card, and sacrifices a permanent of their choice.</text>
     </card>
     <card>
       <name>Spirit Channeler</name>
@@ -4643,7 +4645,7 @@ At the beginning of your upkeep, you may return a land you control to its owner�
       <text>Attacking creatures you control get +2/-1 until end of turn.</text>
     </card>
     <card>
-      <name>Stonebind Elemental</name>
+      <name>Stonebound Strider</name>
       <set rarity="rare">STL</set>
       <prop>
         <colors>G</colors>
@@ -4655,7 +4657,7 @@ At the beginning of your upkeep, you may return a land you control to its owner�
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever a land you control enters, this creature fights up to one target creature.
-Whenever a creature dealt damage by this creature this turn dies, put a +1/+1 counter on this creature and it gains trample until end of turn.</text>
+Whenever this creature is dealt damage, put a +1/+1 counter on it and it gains trample until end of turn.</text>
     </card>
     <card>
       <name>Storm King Elder</name>
@@ -4929,7 +4931,8 @@ At the beginning of each opponent’s upkeep, that player gains control of this 
         <pt>5/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying, ward {1}
+      <text>Flying
+Ward—Pay 5 life.
 Whenever this creature attacks, you may have it deal no combat damage this turn. When you do, it deals 5 damage to target creature defending player controls. Excess damage dealt this way is dealt to that creature’s controller instead.</text>
     </card>
     <card>
@@ -4956,7 +4959,7 @@ Whenever this creature attacks, you may have it deal no combat damage this turn.
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>This artifact can be attached only to a creature with power 6 or greater.
+      <text>This Equipment can be attached only to a creature with power 6 or greater.
 Equipped creature gets +6/+0 and has annihilator 2.
 Equip {4}</text>
     </card>
@@ -5103,7 +5106,7 @@ Whenever this creature deals combat damage, create that many white Aura enchantm
         <cmc>6</cmc>
         <type>Creature - Leviathan </type>
         <maintype>Creature</maintype>
-        <pt>5/5</pt>
+        <pt>5/7</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -5282,7 +5285,7 @@ You may play an additional land this turn.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-{T}: Add CC.</text>
+{T}: Add CC. </text>
     </card>
     <card>
       <name>Vileblossom</name>
@@ -5420,7 +5423,7 @@ If this creature would die, instead exile it with an assault counter on it. When
       <tablerow>2</tablerow>
       <text>Riot
 Whenever this creature blocks, double the number of +1/+1 counters on it.
-Whenever this creature attacks, it deals damage equal to half its power, rounded up, to each opponent.</text>
+Whenever this creature attacks, it deals damage equal to half its power, rounded up, to target opponent.</text>
     </card>
     <card>
       <name>Wave Courser</name>
@@ -5606,7 +5609,7 @@ Whenever a creature with flying dies, create a Treasure token.</text>
       <tablerow>2</tablerow>
       <text>Defender
 At the beginning of each upkeep, remove a phylactery counter from this creature. When you do, it loses defender and gains flying until end of turn.
-Whenever an artifact you control enters, target opponent loses 1 life and you gain 1 life. Draw a card.
+Whenever an artifact you control enters, target opponent loses 1 life, you gain 1 life, and you draw a card.
 Sacrifice an artifact: Put a number of phylactery counters on this creature equal to the sacrificed artifact’s mana value.</text>
     </card>
     <card>
@@ -5766,7 +5769,7 @@ Whenever an opponent loses life, that player exiles a card from their graveyard.
       <text>Prevent all combat damage that would be dealt this turn. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
-      <name>Ashgod Reawakened</name>
+      <name>Ashgod Child</name>
       <set rarity="mythic">STL</set>
       <prop>
         <colors>R</colors>
@@ -5879,7 +5882,7 @@ Discard a card: Remove a time counter from this card. Activate only if this card
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
-Battly cry
+Whenever this creature attacks or blocks, target creature gains first strike and lifelink until end of turn.
 1U, {T}: Copy target activated or triggered ability you control. You may choose new targets for the copy.</text>
     </card>
     <card>
@@ -6195,13 +6198,13 @@ This creature’s power and toughness are each equal to the number of creatures 
 As long as you control another creature with flying, this creature has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</text>
     </card>
     <card>
-      <name>Sun&apos;s Reach Knight</name>
+      <name>Sunspire Knight</name>
       <set rarity="common">STL</set>
       <prop>
         <colors>W</colors>
         <manacost>4W</manacost>
         <cmc>5</cmc>
-        <type>Creature - Angel </type>
+        <type>Creature - Angel Knight </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
@@ -6509,19 +6512,19 @@ Whenever one or more creatures you control deal damage to a player, scry X, wher
 Whenever an opponent attacks, tap all lands that player controls.</text>
     </card>
     <card>
-      <name>Isle Strider</name>
-      <set rarity="rare">STL</set>
+      <name>Striding Bearer</name>
+      <set rarity="mythic">STL</set>
       <prop>
         <colors>U</colors>
-        <manacost>U</manacost>
-        <cmc>1</cmc>
-        <type>Creature - Elemental </type>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of your upkeep, put a flood counter on target land an opponent controls without a flood counter on it.
-This creature gets +0/+1 for each land with a flood counter on it.
+      <text>At the beginning of your end step, put two stun counters each of X target lands, where X is this creature’s toughness.
+This creature gets +0/+1 for each stun counter among permanents.
 {2/U}: This creature gets +1/-1 until end of turn.</text>
     </card>
     <card>
@@ -6781,7 +6784,7 @@ Whenever this creature becomes blocked, you lose 3 life.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you activate this artifact’s equip ability, put a number of light counters on it equal to the number of colors of mana spent to activate that ability.
+      <text>Whenever you activate this equipment’s equip ability, put a number of light counters on it equal to the number of colors of mana spent to activate that ability.
 Equipped creature gets +1/+1 for each light counter on this artifact and has flying.
 Equip {5}</text>
     </card>
@@ -6829,7 +6832,7 @@ Whenever a creature you control dies, you gain 1 life.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of each upkeep, if this creature was dealt damage last turn, remove a +1/+1 counter from it.
-Whenever this creature attacks, if it has no +1/+1 counters on it, put a +1/+1 counter on it and each opponent loses 1 life and you gain 1 life.</text>
+Whenever this creature attacks, if it has no +1/+1 counters on it, put a +1/+1 counter on it and defending player loses 1 life and you gain 1 life.</text>
     </card>
     <card>
       <name>Lava Reading</name>
@@ -7217,8 +7220,8 @@ Create X 2/1 black and red Dog Beast creature tokens with “This token can’t 
         <pt>8/8</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>As an additional cost to cast this spell, exile three cards from your hand.
-This creature has all abilities of cards exiled with it.</text>
+      <text>As an additional cost to cast this spell, exile three creature cards from your hand.
+As long as this creature is on the battlefield, it has all abilities of cards exiled with it.</text>
     </card>
     <card>
       <name>Maw of the Chasm</name>
@@ -7233,7 +7236,7 @@ This creature has all abilities of cards exiled with it.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each card put into a graveyard from anywhere this turn.
-Ward—Sacrifice two permanents.
+Ward—Sacrifice two nontoken permanents.
 Whenever this creature becomes blocked, defending player loses life equal to the number of cards in their graveyard.</text>
     </card>
     <card>
@@ -7368,7 +7371,7 @@ This creature enters with a glimmer counter on it.
       <tablerow>0</tablerow>
       <text>This land enters tapped unless you control a Mountain.
 {T}: Add {C}.
-Whenever one or more creatures you control deal combat damage to a player, untap this land. This ability triggers only once each turn.</text>
+Whenever one or more creatures you control deal combat damage to a player, untap this land.</text>
     </card>
     <card>
       <name>Mirrorflats Palace</name>
@@ -7437,17 +7440,17 @@ Draw a card.</text>
       <tablerow>0</tablerow>
       <text>This land enters tapped.
 {T}: Add {U}, {R}, or {W}.
-At the beginning of your end step, if you cast no spells this turn, put a stun counter on this land.
+At the beginning of your end step, if you didn’t cast a spell this turn, put a stun counter on this land.
 At the beginning of your end step, if you cast two or more spells this turn, untap this land.</text>
     </card>
     <card>
-      <name>Skyglint</name>
+      <name>Lifeglint</name>
       <set rarity="rare">STL</set>
       <prop>
         <colors>WUBRG</colors>
         <manacost>WUBRG</manacost>
         <cmc>5</cmc>
-        <type>Creature - Avatar </type>
+        <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
       </prop>
@@ -7629,7 +7632,7 @@ Whenever another creature you control is dealt damage, remove a defender counter
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy target creature that dealt damage to you or a creature you control this turn.</text>
+      <text>Destroy target creature that dealt damage to you or a creature you controlled this turn.</text>
     </card>
     <card>
       <name>Bolttide</name>
@@ -7705,7 +7708,7 @@ If an opponent controls a creature with mana value 7 or greater, you may reveal 
 • You lose life equal to that permanent’s mana value and return it to the battlefield under your control with a finality counter on it.</text>
     </card>
     <card>
-      <name>Shorn Angel</name>
+      <name>Bereft Angel</name>
       <set rarity="rare">STL</set>
       <prop>
         <colors>B</colors>
@@ -7821,24 +7824,24 @@ All creatures get -X/-X until end of turn, where X is the number of creatures sa
       <tablerow>3</tablerow>
       <text>Choose two —
 • You lose 2 life and draw two cards.
-• Discard a card. Target opponent sacrifices two creatures.
-• Sacrifice a permanent. Target opponent discards two cards.</text>
+• Discard a card. Target opponent sacrifices two creatures of their choice.
+• Sacrifice a creature of your choice. Target opponent discards two cards.</text>
     </card>
     <card>
-      <name>Hellfeaster</name>
+      <name>Hellfeast</name>
       <set rarity="mythic">STL</set>
       <prop>
         <colors>BR</colors>
-        <manacost>4BB/RR</manacost>
+        <manacost>BBBB/RRRR</manacost>
         <cmc>7</cmc>
         <type>Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>8/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ward—{5}, Pay 5 life.
-Devour 15
-When this creature enters, it deals 15 damage divided as you choose among any number of target creatures you control. If no excess damage was dealt this way, put a deathtouch counter and a trample counter on this creature and it gains haste until end of turn.</text>
+      <text>Ward—Exile a card from your hand.
+When this creature enters, it deals 15 damage divided as you choose among one or more other target creatures you control. If no excess damage was dealt this way, put a deathtouch counter and a trample counter on this creature and it gains haste until end of turn.
+Whenever a creature you control dies, put a number of +1/+1 counters on this creature equal to that creature’s toughness.</text>
     </card>
     <card>
       <name>Meet the Other</name>
@@ -7887,13 +7890,13 @@ This creature has trample and haste as long as it has a +1/+1 counter on it.</te
       <set rarity="common">STL</set>
       <prop>
         <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature you control gets +X/+X, where X the greatest power among creatures your opponents control minus its power.</text>
+      <text>Target creature you control gets +X/+X, where X is the greatest power among creatures your opponents control minus the targeted creature’s power.</text>
     </card>
     <card>
       <name>Howling Blaze</name>
@@ -7986,14 +7989,14 @@ Whenever this creature deals combat damage to another creature, draw a card and 
     </card>
     <card>
       <name>Eternally Besieged Dygdaoth</name>
-      <set rarity="uncommon">STL</set>
+      <set rarity="rare">STL</set>
       <prop>
         <colors>RG</colors>
         <manacost>1RG</manacost>
         <cmc>3</cmc>
         <type>Structure</type>
         <maintype>Structure</maintype>
-      <loyalty>4</loyalty>
+      <loyalty>3</loyalty>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of each opponent’s upkeep, that player adds two mana in any combination of colors. They may spend this mana only to cast creature spells. Until end of turn, they don’t lose this mana as steps and phases end.
@@ -8086,7 +8089,7 @@ This creature is a land unless an opponent controls four or more creatures.
       <tablerow>0</tablerow>
       <text>This land enters tapped unless you control two or more Islands.
 {T}: Add {U}.
-{T}, Sacrifice this land: Search your library for up to two Forest cards, put them onto the battlefield tapped, then shuffle.</text>
+{T}, Sacrifice this land: Search your library for up to two Forest cards, put them onto the battlefield tapped, then shuffle. Activate only if you control three or more Islands.</text>
     </card>
     <card>
       <name>Helseith Monument</name>
@@ -8161,7 +8164,7 @@ This creature is a land unless an opponent controls four or more creatures.
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, defender, indestructible
-Whenever a source deals damage to this creature, that source’s controller creates that many colorless artifact tokens named Dawnfin Scale. They have “{T}, Sacrifice this token: You gain 1 life,” and “{1}, {T}, Sacrifice this token: Add two mana of any one color used to pay for this ability.”</text>
+Whenever a source deals damage to this creature, that source’s controller creates that many colorless artifact tokens named Dawnfin Scale. They have “{1}, {T}, Sacrifice this token: Add CC. This mana can only be used to cast spells. Activate only as a sorcery,” and “At the beginning of your upkeep, tap an untapped land you control.”</text>
     </card>
     <card>
       <name>Skygrave</name>
@@ -8237,9 +8240,9 @@ Whenever a creature attacks you, this enchantment deals 1 damage to it.</text>
         <pt>12/12</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Defender
+      <text>Defender, ward {5}
 If a creature an opponent controls would die, shuffle it into its owner’s library instead.
-Whenever one or more creatures an opponent controls deal combat damage to you, that player sacrifices one of those creatures.</text>
+Whenever one or more creatures an opponent controls deal combat damage to you, that player sacrifices one of those creatures of their choice.</text>
     </card>
     <card>
       <name>Gravehowler</name>
@@ -8254,7 +8257,7 @@ Whenever one or more creatures an opponent controls deal combat damage to you, t
       </prop>
       <tablerow>2</tablerow>
       <text>This creature enters tapped.
-When this creature enters, you lose 1 life.</text>
+When this creature enters, you lose 3 life.</text>
     </card>
     <card>
       <name>Shift Life</name>
@@ -8267,7 +8270,7 @@ When this creature enters, you lose 1 life.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Exile target creature from the battlefield and target creature card from a graveyard.
+      <text>Exile target creature and target creature card from a graveyard.
 At the beginning of the next end step, return the exiled cards to the battlefield under their owners’ control.</text>
     </card>
     <card>
@@ -8289,7 +8292,7 @@ At the beginning of the next end step, return the exiled cards to the battlefiel
       <set rarity="mythic">STL</set>
       <prop>
         <colors>W</colors>
-        <manacost>5W</manacost>
+        <manacost>3WWW</manacost>
         <cmc>6</cmc>
         <type>Creature - Angel Knight </type>
         <maintype>Creature</maintype>
@@ -8301,7 +8304,7 @@ When this creature enters, if it isn’t a token, create a token that’s a copy
 Whenever this creature attacks, if you gained life this turn, create a 3/3 white Angel Knight creature token that’s tapped and attacking.</text>
     </card>
     <card>
-      <name>Season&apos;s End</name>
+      <name>Seasons&apos; End</name>
       <set rarity="mythic">STL</set>
       <prop>
         <colors>UBRG</colors>
@@ -8309,7 +8312,7 @@ Whenever this creature attacks, if you gained life this turn, create a 3/3 white
         <cmc>4</cmc>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>4/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch, trample
@@ -8333,7 +8336,7 @@ This creature enters with a lifelink counter on it if you cast it.
 2B: Return this creature from your graveyard to the battlefield with a deathtouch and a finality counter on it. Activate only if an Angel you controlled died this turn.</text>
     </card>
     <card>
-      <name>Skybound Husk</name>
+      <name>Skybound Hull</name>
       <set rarity="uncommon">STL</set>
       <prop>
         <colors>WBR</colors>
@@ -8393,7 +8396,7 @@ Whenever enchanted player casts a spell, if one or more cards are exiled with th
       <text>Put target creature into its owner’s library fifth from the top.</text>
     </card>
     <card>
-      <name>Ksuul&apos;s Lords Unending</name>
+      <name>Ksul&apos;s Lords Unending</name>
       <set rarity="mythic">STL</set>
       <prop>
         <colors>WUBG</colors>
@@ -8401,11 +8404,12 @@ Whenever enchanted player casts a spell, if one or more cards are exiled with th
         <cmc>4</cmc>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>*/*</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, another target creature you control that doesn’t have the same name as this creature becomes a copy of this creature.
-When this creature dies, you may return it to the battlefield.</text>
+      <text>This creature’s power and toughness are each equal to the number of creatures you control named Ksul’s Lords Unending.
+When this creature enters and at the beginning of your upkeep, each other creature you control becomes a copy of this creature.
+When this creature dies, return it to the battlefield.</text>
     </card>
     <card>
       <name>Bound for the End</name>
@@ -8419,7 +8423,7 @@ When this creature dies, you may return it to the battlefield.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-At the beginning of your end step, put a stun counter on enchanted creature. Then if there a three or more stun counters on it, exile it.</text>
+At the beginning of your end step, put a stun counter on enchanted creature. Then if there are three or more stun counters on it, exile it.</text>
     </card>
     <card>
       <name>Blasted Overgrowth</name>
@@ -8446,7 +8450,7 @@ At the beginning of your end step, put a stun counter on enchanted creature. The
       </prop>
       <tablerow>3</tablerow>
       <text>This card deals 2 damage to target opponent.
-At the beginning of your precombat main phase, if this card is in your graveyard, you may discard two cards or sacrifice a permanent. If you do, you may cast this card until end of turn.</text>
+At the beginning of your precombat main phase, if this card is in your graveyard, you may discard a card or sacrifice a permanent. If you do, you may cast this card until end of turn.</text>
     </card>
     <card>
       <name>Torchgut</name>
@@ -8504,7 +8508,35 @@ III — Target creature you control deals damage equal to its power to up to one
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature you control gets +4/+4 and gains trample until end of turn. When it deals combat damage to a player this turn, if it wasn’t blocked, you may draw two cards.</text>
+      <text>Target creature you control gets +3/+3 and gains trample until end of turn. When it deals combat damage to a player this turn, draw two cards.</text>
+    </card>
+    <card>
+      <name>Manysight</name>
+      <set rarity="mythic">STL</set>
+      <prop>
+        <colors>WUBR</colors>
+        <manacost>WUBR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, for each land you could have played this turn but didn’t, target opponent loses 4 life and you gain 4 life. Then if an opponent lost 5 or more life this turn, you may draw four cards.</text>
+    </card>
+    <card>
+      <name>Masses of the Damned</name>
+      <set rarity="rare">STL</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>RWB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control have trample, lifelink, and haste.
+At the beginning of your end step, sacrifice each creature you control. Draw a card for each creature sacrificed this way.</text>
     </card>
 
     <!-->Tokens</-->
@@ -9154,8 +9186,8 @@ Enchanted creature gets +1/+1 for each creature you control and has trample.</te
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{T}, Sacrifice this token: You gain 1 life.
-{1}, {T}, Sacrifice this token: Add two mana of any one color used to pay for this ability.</text>
+      <text>At the beginning of your upkeep, tap an untapped land you control.
+{1}, {T}, Sacrifice this token: Add CC. Spend this mana only to cast spells. Activate only as a sorcery.</text>
       <token>1</token>
     </card>
 
