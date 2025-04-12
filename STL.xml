@@ -1500,12 +1500,12 @@ Whenever a token created by this creature dies, return this creature to its owne
     </card>
     <card>
       <name>Guardian Image</name>
-      <set rarity="common">STL</set>
+      <set rarity="uncommon">STL</set>
       <prop>
         <colors>WG</colors>
         <manacost>2G/W</manacost>
         <cmc>3</cmc>
-        <type>Creature - Spirit </type>
+        <type>Creature - Bird Spirit </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
       </prop>
@@ -1921,7 +1921,7 @@ At the beginning of your end step, sacrifice a creature. When you do, create an 
       <text>Whenever a non-Spirit creature dies, choose one —
 • Put two +1/+1 counters on this creature.
 • Create a 1/1 white Spirit creature token with flying.
-When this creature dies, create an X/X white Spirit creature token named Scion of Er, where X is the number of +1/+1 counters on this creature.</text>
+When this creature dies, create an X/X white Elemental creature token named Scion of the Shepherd, where X is the number of +1/+1 counters on this creature.</text>
     </card>
     <card>
       <name>Endless Peaks</name>
@@ -2874,7 +2874,7 @@ Whenever damage is prevented by a source you control, you gain that much life.</
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target creature card from a graveyard. Create a 2/2 black Zombie Human creature token with menace.
-Reinforce 2—{B}, Discard a creature card.</text>
+Reinforce 2—{G}, Discard a creature card.</text>
     </card>
     <card>
       <name>Howling Warden</name>
@@ -7925,7 +7925,7 @@ When this creature dies, destroy up to three target noncreature permanents.</tex
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I, II — Create a Treasure token.
 III — For each artifact you control, create a 1/1 Warrior creature token with “This token can’t block.”
 ​</text>
@@ -8538,6 +8538,22 @@ III — Target creature you control deals damage equal to its power to up to one
       <text>Creatures you control have trample, lifelink, and haste.
 At the beginning of your end step, sacrifice each creature you control. Draw a card for each creature sacrificed this way.</text>
     </card>
+    <card>
+      <name>Boiling Dunes Self-Sufficient</name>
+      <set rarity="common">STL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Exile a card from your graveyard: Choose one—
+• Create a Treasure.
+• Discard a card, then draw a card.</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -8572,7 +8588,7 @@ Equip {4}</text>
       <set>STL</set>
       <prop>
         <colors>W</colors>
-        <type>Token Enchantment Creature - Bird </type>
+        <type>Token Enchantment Creature - Bird Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
       </prop>
@@ -8670,11 +8686,11 @@ Equip {4}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Scion of Er</name>
+      <name>Scion of the Shepherd</name>
       <set>STL</set>
       <prop>
         <colors>W</colors>
-        <type>Token Creature - Spirit </type>
+        <type>Token Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>X/X</pt>
       </prop>
