@@ -359,9 +359,9 @@ When this creature enters, create two 1/1 white Human Soldier creature tokens.</
         <pt>5/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying, menace, haste
+      <text>Flying, menace
 Whenever this creature attacks while saddled, defending player sacrifices half of all creatures they control of their choice, rounded down. Then that player sacrifices a nontoken creature of their choice.
-Pay 10 life: This creature becomes saddled. Activate only as a sorcery.
+Pay 10 life: This creature becomes saddled. It gains haste until end of turn. Activate only as a sorcery.
 Saddle 4</text>
     </card>
     <card>
@@ -3086,7 +3086,7 @@ Whenever this creature attacks or blocks, put 7 awaken counters on it at the beg
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, create two 1/1 red Devil creature tokens.
-Whenever another devil you control dies, this creature deals 3 damage to each player.</text>
+Whenever another Devil you control dies, this creature deals 3 damage to each player.</text>
     </card>
     <card>
       <name>Lingerer</name>
@@ -3188,7 +3188,7 @@ Spells your opponents cast outside of their turns cost an additional {3} and 3 l
     </card>
     <card>
       <name>Magmaspawn Army</name>
-      <set rarity="uncommon">STL</set>
+      <set rarity="rare">STL</set>
       <prop>
         <colors>WR</colors>
         <manacost>RW</manacost>
@@ -6224,7 +6224,7 @@ Flying, vigilance</text>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature attacks, attacking creatures get +2/-1.
+      <text>Whenever this creature attacks, attacking creatures get +2/-1 until end of turn.
 Unearth 1BR</text>
     </card>
     <card>
@@ -8479,10 +8479,9 @@ When this creature dies, it deals 2 damage to each creature.</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I, II — Target creature you control deals damage equal to its power to up to one other target creature. When a creature dealt damage this way dies this turn, sacrifice this enchantment.
-III — Target creature you control deals damage equal to its power to up to one other target creature. When a creature dealt damage this way dies this turn, draw three cards and create three Treasure tokens.
-​</text>
+III — Target creature you control deals damage equal to its power to up to one other target creature. When a creature dealt damage this way dies this turn, draw three cards and create three Treasure tokens.</text>
     </card>
     <card>
       <name>Unstable Nethertunnel</name>
@@ -8553,6 +8552,21 @@ At the beginning of your end step, sacrifice each creature you control. Draw a c
       <text>{T}, Exile a card from your graveyard: Choose one—
 • Create a Treasure.
 • Discard a card, then draw a card.</text>
+    </card>
+    <card>
+      <name>Boiling Veil</name>
+      <set rarity="uncommon">STL</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanted creature gets +1/-1 for each strain counter on this equipment.
+Tap another permanent you control: Put a strain counter on this equipment.
+Tap another permanent you control: Attach this equipment to target creature you control. </text>
     </card>
 
     <!-->Tokens</-->
@@ -9138,7 +9152,8 @@ Enchanted creature gets +1/+1 for each creature you control and has trample.</te
         <pt>0/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this token dies, create a 1/2 green Spider creature token with reach.</text>
+      <text>Defender
+When this token dies, create a 1/2 green Spider creature token with reach.</text>
       <token>1</token>
     </card>
     <card>
