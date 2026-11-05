@@ -24,7 +24,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "549",
+			"collector_number": "550",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Pale Glimmer.png"
 			}
@@ -51,7 +51,7 @@
 		},
 		{
 			"name": "Looming Dreadvessel",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Artifact — Vehicle ",
 			"collector_number": "167",
@@ -132,7 +132,7 @@
 		{
 			"name": "Awakener Prodigy",
 			"rarity": "mythic",
-			"mana_cost": "{2}{R}{W}{B}",
+			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature — Human Artificer ",
 			"collector_number": "326",
 			"image_uris": {
@@ -141,7 +141,7 @@
 		},
 		{
 			"name": "Assembled Forces",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "324",
@@ -261,7 +261,7 @@
 		},
 		{
 			"name": "Blasphemous Creation",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Horror ",
 			"collector_number": "132",
@@ -384,7 +384,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "555",
+			"collector_number": "556",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Boiling Dunes.png"
 			}
@@ -432,7 +432,7 @@
 		{
 			"name": "Willow Stalker",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{G}{G}{W}",
 			"type": "Creature — Wolf ",
 			"collector_number": "521",
 			"image_uris": {
@@ -441,7 +441,7 @@
 		},
 		{
 			"name": "Abarax Broodmother",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Spider ",
 			"collector_number": "264",
@@ -481,7 +481,7 @@
 		},
 		{
 			"name": "Surging Force",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura ",
 			"collector_number": "252",
@@ -843,7 +843,7 @@
 			"name": "Druid of the Crooked",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Druid ",
+			"type": "Creature — Centaur Druid ",
 			"collector_number": "279",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Druid of the Crooked.png"
@@ -962,7 +962,7 @@
 		{
 			"name": "Spikewheel Juggernaut",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Juggernaut ",
 			"collector_number": "249",
 			"image_uris": {
@@ -1004,7 +1004,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "556",
+			"collector_number": "558",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Depleting Vista.png"
 			}
@@ -1044,7 +1044,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "557",
+			"collector_number": "559",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Dessicated Ramparts.png"
 			}
@@ -1061,7 +1061,7 @@
 		},
 		{
 			"name": "Devourer of Light",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}{B}",
 			"type": "Creature — Demon ",
 			"collector_number": "145",
@@ -1104,7 +1104,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "558",
+			"collector_number": "560",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Divine Reaches.png"
 			}
@@ -1291,7 +1291,7 @@
 		},
 		{
 			"name": "Shepherd of Souls",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Spirit Cleric ",
 			"collector_number": "49",
@@ -1304,14 +1304,14 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "559",
+			"collector_number": "561",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Endless Peaks.png"
 			}
 		},
 		{
 			"name": "Endless Ranks",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{6}{W}",
 			"type": "Enchantment",
 			"collector_number": "22",
@@ -1383,7 +1383,7 @@
 			"name": "Ejor Rootcaller",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Elemental ",
+			"type": "Creature — Treefolk ",
 			"collector_number": "280",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Ejor Rootcaller.png"
@@ -1484,7 +1484,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "562",
+			"collector_number": "564",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Fate's Pass.png"
 			}
@@ -1654,7 +1654,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "566",
+			"collector_number": "568",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Forsaken Grounds.png"
 			}
@@ -1804,7 +1804,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "573",
+			"collector_number": "575",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Hjalin Vale.png"
 			}
@@ -1814,7 +1814,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "569",
+			"collector_number": "571",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Hallowed Plateau.png"
 			}
@@ -1824,7 +1824,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "570",
+			"collector_number": "572",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Harmonic Falls.png"
 			}
@@ -1924,7 +1924,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "572",
+			"collector_number": "574",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Highland Saddle.png"
 			}
@@ -1984,7 +1984,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "574",
+			"collector_number": "576",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Inhospitable Fields.png"
 			}
@@ -2012,7 +2012,7 @@
 		{
 			"name": "Kaikan Banner-Bearer",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior ",
 			"collector_number": "231",
 			"image_uris": {
@@ -2034,7 +2034,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land Creature — Leviathan ",
-			"collector_number": "599",
+			"collector_number": "602",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Wandering Isle.png"
 			}
@@ -2074,7 +2074,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "575",
+			"collector_number": "577",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Levitating Woodland.png"
 			}
@@ -2104,7 +2104,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "576",
+			"collector_number": "578",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Lowland Lake.png"
 			}
@@ -2164,7 +2164,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem ",
-			"collector_number": "546",
+			"collector_number": "547",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Manacore Brute.png"
 			}
@@ -2182,7 +2182,7 @@
 		{
 			"name": "Ever-Vigilant Mataang",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{G}{G/W}",
+			"mana_cost": "{2}{G}{G/W}{W}",
 			"type": "Artifact Creature — Golem ",
 			"collector_number": "530",
 			"image_uris": {
@@ -2192,7 +2192,7 @@
 		{
 			"name": "Mercurial Shaper",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Elemental ",
 			"collector_number": "94",
 			"image_uris": {
@@ -2354,7 +2354,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "579",
+			"collector_number": "582",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Obelisk Gorge.png"
 			}
@@ -2364,7 +2364,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "547",
+			"collector_number": "548",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Oblivion Sphere.png"
 			}
@@ -2411,7 +2411,7 @@
 		},
 		{
 			"name": "Volatile Evolved",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Creature — Wurm ",
 			"collector_number": "515",
@@ -2424,14 +2424,14 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "548",
+			"collector_number": "549",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Old God's Heart.png"
 			}
 		},
 		{
 			"name": "Overgrown Fury",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Creature — Plant Beast ",
 			"collector_number": "298",
@@ -2454,7 +2454,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "580",
+			"collector_number": "583",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Parasitic Vestiges.png"
 			}
@@ -2481,7 +2481,7 @@
 		},
 		{
 			"name": "Perpetual Obliteration",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "455",
@@ -2504,7 +2504,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "581",
+			"collector_number": "584",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Petal Peak.png"
 			}
@@ -2541,8 +2541,8 @@
 		},
 		{
 			"name": "Planewide Disappearance",
-			"rarity": "rare",
-			"mana_cost": "{R}{W}",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
 			"type": "Instant",
 			"collector_number": "458",
 			"image_uris": {
@@ -2563,7 +2563,7 @@
 			"name": "Pride's Majesty",
 			"rarity": "rare",
 			"mana_cost": "{G}{G/W}{W}",
-			"type": "Creature — Cat Horse ",
+			"type": "Creature — Cat  ",
 			"collector_number": "535",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Pride's Majesty.png"
@@ -2594,7 +2594,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "584",
+			"collector_number": "587",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Pustulous Scape.png"
 			}
@@ -2604,7 +2604,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "585",
+			"collector_number": "588",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Putrid Pit.png"
 			}
@@ -2702,7 +2702,7 @@
 		{
 			"name": "Revenant Guide",
 			"rarity": "uncommon",
-			"mana_cost": "{W}{B}",
+			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Spirit ",
 			"collector_number": "465",
 			"image_uris": {
@@ -2814,7 +2814,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "587",
+			"collector_number": "590",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Rootwilds.png"
 			}
@@ -2844,7 +2844,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "588",
+			"collector_number": "591",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Scorched Barrens.png"
 			}
@@ -2854,7 +2854,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "551",
+			"collector_number": "552",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Scrap Assembler.png"
 			}
@@ -2894,7 +2894,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "589",
+			"collector_number": "592",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Shattered Scape.png"
 			}
@@ -2921,7 +2921,7 @@
 		},
 		{
 			"name": "Sky Tyrant's Fury",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "246",
@@ -2961,10 +2961,10 @@
 		},
 		{
 			"name": "Slayer's Attire",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "552",
+			"collector_number": "553",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Slayer's Attire.png"
 			}
@@ -3004,15 +3004,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "590",
+			"collector_number": "593",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Solroot Gate.png"
 			}
 		},
 		{
 			"name": "Soulbleed",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{R}",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "482",
 			"image_uris": {
@@ -3093,7 +3093,7 @@
 			"name": "Spring",
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}",
-			"type": "Creature — Incarnation ",
+			"type": "Enchantment Creature — Incarnation ",
 			"collector_number": "488",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Spring.png"
@@ -3162,7 +3162,7 @@
 		{
 			"name": "Stormfront Wail",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}{R}",
+			"mana_cost": "{4}{U}{R}",
 			"type": "Creature — Phoenix ",
 			"collector_number": "491",
 			"image_uris": {
@@ -3211,7 +3211,7 @@
 		},
 		{
 			"name": "Swarm Stone",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{B}{G}",
 			"type": "Artifact",
 			"collector_number": "496",
@@ -3264,7 +3264,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "560",
+			"collector_number": "562",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Farstones.png"
 			}
@@ -3291,7 +3291,7 @@
 		},
 		{
 			"name": "Thunderous Maw",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Creature — Dragon ",
 			"collector_number": "254",
@@ -3314,7 +3314,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "553",
+			"collector_number": "554",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Titan's Bane.png"
 			}
@@ -3364,7 +3364,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "595",
+			"collector_number": "598",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Tumultuous Ridge.png"
 			}
@@ -3384,14 +3384,14 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "596",
+			"collector_number": "599",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Twinpeak Passage.png"
 			}
 		},
 		{
 			"name": "Twisted Amalgam",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{X}{X}{B}{G}",
 			"type": "Creature — Horror ",
 			"collector_number": "507",
@@ -3464,7 +3464,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "597",
+			"collector_number": "600",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Unspoiled Summits.png"
 			}
@@ -3572,7 +3572,7 @@
 		{
 			"name": "Volcanic Lightning",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "260",
 			"image_uris": {
@@ -3622,7 +3622,7 @@
 		{
 			"name": "Warborn Annihilator",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{G}",
+			"mana_cost": "{1}{R}{G}{G}",
 			"type": "Creature — Mutant Warrior ",
 			"collector_number": "518",
 			"image_uris": {
@@ -3684,7 +3684,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "600",
+			"collector_number": "603",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Winterdew Springs.png"
 			}
@@ -3694,14 +3694,14 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "563",
+			"collector_number": "565",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Floating Meadows.png"
 			}
 		},
 		{
 			"name": "Wisp's Will",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment — Aura ",
 			"collector_number": "126",
@@ -3724,7 +3724,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "601",
+			"collector_number": "604",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Worldmaw.png"
 			}
@@ -3861,7 +3861,7 @@
 		},
 		{
 			"name": "Omid's Final Rest",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "297",
@@ -4054,7 +4054,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "571",
+			"collector_number": "573",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Harvester's Gorge.png"
 			}
@@ -4143,7 +4143,7 @@
 			"name": "Embodiment of Will",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{W}",
-			"type": "Enchantment Creature — Elemental ",
+			"type": "Enchantment Creature — Incarnation ",
 			"collector_number": "378",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Embodiment of Will.png"
@@ -4442,7 +4442,7 @@
 		{
 			"name": "Scour the Archives",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "107",
 			"image_uris": {
@@ -4554,7 +4554,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Enchantment Artifact — Equipment ",
-			"collector_number": "550",
+			"collector_number": "551",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Prismatic Wings.png"
 			}
@@ -4632,7 +4632,7 @@
 		{
 			"name": "Soulcaster",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock ",
 			"collector_number": "184",
 			"image_uris": {
@@ -4801,7 +4801,7 @@
 		},
 		{
 			"name": "Spirehound Hunt",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Instant",
 			"collector_number": "485",
@@ -4824,7 +4824,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "561",
+			"collector_number": "563",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Farthest Fort.png"
 			}
@@ -4841,7 +4841,7 @@
 		},
 		{
 			"name": "Formless Deep",
-			"rarity": "mythic",
+			"rarity": "rare",
 			"mana_cost": "{U}{U}{B}{B}",
 			"type": "Creature — Horror ",
 			"collector_number": "398",
@@ -4851,7 +4851,7 @@
 		},
 		{
 			"name": "Maw of the Chasm",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{8}{U}{B}",
 			"type": "Creature — Leviathan ",
 			"collector_number": "438",
@@ -4892,7 +4892,7 @@
 		{
 			"name": "Battlefield Husk",
 			"rarity": "common",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Zombie Demon ",
 			"collector_number": "129",
 			"image_uris": {
@@ -4901,7 +4901,7 @@
 		},
 		{
 			"name": "Sandstorm Glider",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{4}{W}{U}",
 			"type": "Creature — Wurm ",
 			"collector_number": "471",
@@ -4944,7 +4944,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "598",
+			"collector_number": "601",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Valley's Peak.png"
 			}
@@ -4954,7 +4954,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "578",
+			"collector_number": "580",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Mirrorflats Palace.png"
 			}
@@ -4994,7 +4994,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "591",
+			"collector_number": "594",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Stormfall Pillar.png"
 			}
@@ -5114,7 +5114,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "564",
+			"collector_number": "566",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Flourishing Haven.png"
 			}
@@ -5144,7 +5144,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "568",
+			"collector_number": "570",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Glacial Valley.png"
 			}
@@ -5154,7 +5154,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "593",
+			"collector_number": "596",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Towerglade Burg.png"
 			}
@@ -5214,7 +5214,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "586",
+			"collector_number": "589",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Razed Wood.png"
 			}
@@ -5271,7 +5271,7 @@
 		},
 		{
 			"name": "Meet the Other",
-			"rarity": "uncommon",
+			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Sorcery",
 			"collector_number": "439",
@@ -5414,7 +5414,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "594",
+			"collector_number": "597",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Tuadetrium Greatwood.png"
 			}
@@ -5424,7 +5424,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "602",
+			"collector_number": "605",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Ziiya Skydunes.png"
 			}
@@ -5494,7 +5494,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "582",
+			"collector_number": "585",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Porous Caverns.png"
 			}
@@ -5584,7 +5584,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "554",
+			"collector_number": "555",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Blasted Overgrowth.png"
 			}
@@ -5832,7 +5832,7 @@
 		{
 			"name": "Fallen Twins' Bridge",
 			"rarity": "mythic",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Structure",
 			"collector_number": "85",
 			"image_uris": {
@@ -6281,7 +6281,7 @@
 		},
 		{
 			"name": "Eternally Besieged Dygdaoth",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Structure",
 			"collector_number": "388",
@@ -6331,7 +6331,7 @@
 		},
 		{
 			"name": "Shrine of Ages Past",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Structure",
 			"collector_number": "5",
@@ -6351,7 +6351,7 @@
 		},
 		{
 			"name": "Skybound Hull",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Structure",
 			"collector_number": "477",
@@ -6434,7 +6434,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "567",
+			"collector_number": "569",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Garden of the End.png"
 			}
@@ -6484,7 +6484,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "565",
+			"collector_number": "567",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Fog-Laden Hillside.png"
 			}
@@ -6504,7 +6504,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "592",
+			"collector_number": "595",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Tectonic Fragment.png"
 			}
@@ -6514,7 +6514,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "583",
+			"collector_number": "586",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Prism Grove.png"
 			}
@@ -6524,7 +6524,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "577",
+			"collector_number": "579",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Marrow Sands.png"
 			}
@@ -6539,17 +6539,47 @@
 				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Worldsiphon.png"
 			}
 		},
+		{
+			"name": "Misty Mire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "581",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Misty Mire.png"
+			}
+		},
+		{
+			"name": "Iilii Land Probe",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "546",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Iilii Land Probe.png"
+			}
+		},
+		{
+			"name": "Bonereef Ridge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "557",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/PookySeinAccount/mse/main/STL-files/Bonereef Ridge.png"
+			}
+		},
 		]
 	[RareSlot(1)]
 	2 Abyss Render
 		2 Deepwinter's Call
+		2 Looming Dreadvessel
 		2 Vultures' Descent
 		2 Light of the Forgotten
-		2 Assembled Forces
 		2 Ashgod's Altar
 		2 Assault Drake
+		2 Blasphemous Creation
 		2 Blue Moon
-		2 Abarax Broodmother
 		2 Cataclysmic Awakening
 		2 Invoke Hope
 		2 Cleansing Blast
@@ -6563,7 +6593,6 @@
 		2 Demon of Unending
 		2 Dessicated Ramparts
 		2 Dethrone
-		2 Devourer of Light
 		2 Disperser of Matter
 		2 Dormant Might
 		2 Implanted Mummy
@@ -6571,8 +6600,8 @@
 		2 Emberplume
 		2 Endalaa Cave Runes
 		2 Isilis Cleanser
+		2 Shepherd of Souls
 		2 Endless Peaks
-		2 Endless Ranks
 		2 Eroded Dawn
 		2 Erupting Pits
 		2 Pyrewielder
@@ -6600,11 +6629,13 @@
 		2 Oblivion Sphere
 		2 Ocean Alive
 		2 Off the Face
+		2 Volatile Evolved
 		2 Old God's Heart
+		2 Overgrown Fury
+		2 Perpetual Obliteration
 		2 Petal Peak
 		2 Phyllean Predator
 		2 Piercing Presence
-		2 Planewide Disappearance
 		2 Pride's Majesty
 		2 Primordial Rousing
 		2 Pristine Exarch
@@ -6614,24 +6645,25 @@
 		2 Rings of Omid
 		2 Roiling Landscape
 		2 Glimpse of Beyond
-		2 Soulbleed
 		2 Spellshield
 		2 Starforged Colossus
 		2 Stonebound Strider
 		2 Storm Tyrant
 		2 Stormfront Wail
 		2 Dawn's Wrath
-		2 Swarm Stone
 		2 Temple Summons
 		2 Farstones
 		2 Halem Battleseeker
+		2 Thunderous Maw
 		2 Titan's Bane
 		2 Toxic Scourge
 		2 Nameless Reflector
 		2 Twilight Sphinx
 		2 Twinpeak Passage
+		2 Twisted Amalgam
 		2 Unspoiled Summits
 		2 Warborn Annihilator
+		2 Wisp's Will
 		2 Wordly Imprisonment
 		2 Reaper's Reward
 		2 Soulvessel Summon
@@ -6651,7 +6683,8 @@
 		2 Growth Unbound
 		2 Helon's Glow
 		2 Wings of Guiding Flame
-		2 Maw of the Chasm
+		2 Spirehound Hunt
+		2 Formless Deep
 		2 Hellcaller Liege
 		2 Reinforced Assault
 		2 Emerge From the Storm
@@ -6672,8 +6705,9 @@
 		2 Kara-Kara
 		2 Grand Seeing Aurora
 		2 Completing the Prototype
-		2 Eternally Besieged Dygdaoth
 		2 Hgalcrypt
+		2 Shrine of Ages Past
+		2 Skybound Hull
 		2 Thunderstorm Titan
 		2 From the Bowels
 		2 Garden of the End
@@ -6682,19 +6716,20 @@
 		2 Tectonic Fragment
 		2 Prism Grove
 		2 Marrow Sands
-		1 Looming Dreadvessel
 		1 Amass Forces
 		1 Veligria Valley Warden
 		1 Awakener Prodigy
+		1 Assembled Forces
 		1 Nightwreath
 		1 Bells of Bedlam
-		1 Blasphemous Creation
+		1 Abarax Broodmother
 		1 Brinemist Oracles
 		1 Striding Carabrax
 		1 Follora Canal Ghastlord
 		1 Cosmic Rebirth
+		1 Devourer of Light
 		1 Emberseek
-		1 Shepherd of Souls
+		1 Endless Ranks
 		1 Eo Ascended
 		1 Epicenter of War
 		1 Living Regrowth
@@ -6708,15 +6743,14 @@
 		1 Mons Tyrant
 		1 Moonrise Leviathan
 		1 Beckoning Muse
-		1 Volatile Evolved
-		1 Overgrown Fury
 		1 Planar Extraction
+		1 Planewide Disappearance
 		1 End of Days
+		1 Soulbleed
 		1 Soultear
 		1 Sphere of Condemnation
 		1 Spring
-		1 Thunderous Maw
-		1 Twisted Amalgam
+		1 Swarm Stone
 		1 Maskbearer of Ukitis
 		1 Unseen Hunger
 		1 War
@@ -6730,12 +6764,13 @@
 		1 Sky-Denied Milian
 		1 Striding Bearer
 		1 Aeons' Witness
-		1 Formless Deep
+		1 Maw of the Chasm
 		1 Entropic One
 		1 Boltrider Stampede
 		1 Witness Apocalypse
 		1 Hell Unbound
 		1 Hellfeast
+		1 Meet the Other
 		1 Centennial Dawnfin
 		1 Spears of Light
 		1 Seasons' End
@@ -6745,6 +6780,7 @@
 		1 Flight of Eklu
 		1 Fallen Twins' Bridge
 		1 Fortress of Scars
+		1 Eternally Besieged Dygdaoth
 		1 Skygrave
 		1 Eroded World
 		1 Worldsiphon
@@ -6768,6 +6804,7 @@
 		9 Willow Stalker
 		9 Awakening Bell
 		9 Laboratory Altar
+		9 Surging Force
 		9 Forgegrinder Devil
 		9 Calling of the Elden Deity
 		9 Caravan Hornshell
@@ -6823,7 +6860,6 @@
 		9 Obelisk Gorge
 		9 Odulla Packbeast
 		9 Perilous Rebuff
-		9 Perpetual Obliteration
 		9 Pestilent Rust
 		9 Pustulous Scape
 		9 Razing Flame
@@ -6837,11 +6873,9 @@
 		9 Scarplate Drowner
 		9 Scrap Assembler
 		9 Shattered Scape
-		9 Sky Tyrant's Fury
 		9 Skybreach Whale
 		9 Skyline Patriarch
 		9 Skyscraping Barrier
-		9 Slayer's Attire
 		9 Soaring Imagination
 		9 Solroot Gate
 		9 Sparkchaser
@@ -6857,12 +6891,10 @@
 		9 Volcanic Lightning
 		9 Voyage of Consciousness
 		9 Daylight Robbery
-		9 Wisp's Will
 		9 Wyrmhunter
 		9 Yellowridge Binder
 		9 Slavering Leechhead
 		9 Beast of Decay
-		9 Omid's Final Rest
 		9 Enlightening Insight
 		9 Ancestor-Bound
 		9 Hoperazer
@@ -6894,11 +6926,9 @@
 		9 Blackspine Telescope
 		9 Distant Light
 		9 Shifting Woods Echo
-		9 Spirehound Hunt
 		9 Axian Caller
 		9 Farthest Fort
 		9 Soul Convergence
-		9 Sandstorm Glider
 		9 Valley's Peak
 		9 Mirrorflats Palace
 		9 Knight of Death's Fury
@@ -6912,7 +6942,6 @@
 		9 Achis Summoning
 		9 Dragondance
 		9 Show of Devotion
-		9 Meet the Other
 		9 Sense Life
 		9 Desperate Courage
 		9 Howling Blaze
@@ -6939,10 +6968,10 @@
 		9 Assault on Balturi
 		9 Helseith Monument
 		9 Cliffgorge Settlement
-		9 Shrine of Ages Past
-		9 Skybound Hull
 		9 Halin Faces the Carchoth
 		9 Construct the Past
+		9 Iilii Land Probe
+		9 Bonereef Ridge
 		[CommonSlot(7)]
 	30 Pale Glimmer
 		30 Arcfused Stream
@@ -6957,7 +6986,6 @@
 		30 Boilblood Caller
 		30 Boltshrieker
 		30 Rustling Ursus
-		30 Surging Force
 		30 Muster Courage
 		30 Necromancer's Research
 		30 Bronzescale Loong
@@ -7045,6 +7073,8 @@
 		30 Seaswallower
 		30 Show of Vigor
 		30 Daidling Skybaron
+		30 Sky Tyrant's Fury
+		30 Slayer's Attire
 		30 Smash to Bits
 		30 Snapjaw Drake
 		30 Spirit Channeler
@@ -7083,6 +7113,7 @@
 		30 Desperate Ambush
 		30 Ignite Fury
 		30 Mindscar
+		30 Omid's Final Rest
 		30 Shield the Worthy
 		30 Premeditated Rebuke
 		30 Boiling Dunes Charger
@@ -7123,6 +7154,7 @@
 		30 Cindergrain Sprout
 		30 Red Eye Speaker
 		30 Battlefield Husk
+		30 Sandstorm Glider
 		30 Boiling Dunes Wurmcaller
 		30 Mothlight Bat
 		30 Marble Scribe
@@ -7145,6 +7177,7 @@
 		30 Beast Amok
 		30 Glare of the Red Giant
 		30 Fog-Laden Hillside
+		30 Misty Mire
 		[WildcardSlot(2)]
 	10 Abyss Render
 	10 Accelerated Evolution
@@ -7748,4 +7781,7 @@
 	10 Prism Grove
 	10 Marrow Sands
 	10 Worldsiphon
+	10 Misty Mire
+	10 Iilii Land Probe
+	10 Bonereef Ridge
 	
